@@ -8,8 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* User Homepage Wireframe: https://github.com/000pjs/liftoff-assignments/blob/eb0b2e173fcc08203082e4a4b11d45bd365dc42f/fullsizeoutput_37e.jpeg
+
+* Create Account Wireframe: https://github.com/000pjs/liftoff-assignments/blob/eb0b2e173fcc08203082e4a4b11d45bd365dc42f/fullsizeoutput_380.jpeg
+
+* Login Wireframe: https://github.com/000pjs/liftoff-assignments/blob/eb0b2e173fcc08203082e4a4b11d45bd365dc42f/fullsizeoutput_382.jpeg
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2156368
