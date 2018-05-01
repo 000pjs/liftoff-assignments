@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Project Presentation, Patrick Smallwood](https://github.com/000pjs/liftoff-assignments/blob/master/P6-Project_Presentation/Liftoff%20Presentation%20--%20PBX.pdf)
