@@ -9,14 +9,14 @@ For this assignment you will need to upload your resume, and provide links to yo
 ### GitHub
 Provide a link to your GitHub account here.
 
-[GitHub Profile] (https://github.com/000pjs)
+[GitHub Profile](https://github.com/000pjs)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-[LinkedIn Profile] (https://www.linkedin.com/in/patrick-smallwood-60009390/)
+[LinkedIn Profile](https://www.linkedin.com/in/patrick-smallwood-60009390/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
 
-[Patrick's Resume] (https://github.com/000pjs/liftoff-assignments/blob/master/Resume.pdf)
+[Patrick's Resume](https://github.com/000pjs/liftoff-assignments/blob/master/C1-Online_Profiles/Resume(1).pdf)
